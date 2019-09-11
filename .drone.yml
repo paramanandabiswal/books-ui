@@ -1,0 +1,5 @@
+pipeline:
+image: node:latest
+script:
+ - npm install
+ - ls
